@@ -5,8 +5,9 @@ name: Juan Briceno
 minimal_mistakes_skin: "contrast"
 avatar: ./assets/img/avatar.png
 round-avatar: true
-social-network-links:
-  email: "juanbri@gmx.com"
-  linkedin: deanattali
-  github: daattali
-  twitter: daattali
+social:
+  links:
+    - "https://twitter.com/bricenoburelli"
+    - "https://www.facebook.com/yourFacebook"
+    - "https://instagram.com/juanbri"
+    - "https://www.linkedin.com/in/juanpablobriceno"
