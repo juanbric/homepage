@@ -27,8 +27,8 @@
     <div class="wrapper">
       <header>
         
-        {% if site.avatar %}
-        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <h1>{{ site.title }}</h1> 
