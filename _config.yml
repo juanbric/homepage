@@ -1,7 +1,6 @@
 title: Juan Briceno
-logo: /assets/img/juan.jpg
-round-logo: true
-description: 
-show_downloads: true
-google_analytics:
+avatar: /assets/img/juan.jpg
+round-avatar: true
+description:
+linkedin: https://www.linkedin.com/juanpablobriceno
 theme: jekyll-theme-minimal
