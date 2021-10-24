@@ -1,12 +1,7 @@
 theme: jekyll-theme-minimal
 title: Juan Briceno
 author: Juan Briceno
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.co
+jekyll_theme_skin: "contrast"
 avatar: ./assets/img/avatar.png
 round-avatar: true
 social-network-links:
