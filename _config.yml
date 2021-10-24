@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Juan Briceno
 author: Juan Briceno
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "contrast"
 avatar: ./assets/img/avatar.png
 round-avatar: true
 social-network-links:
