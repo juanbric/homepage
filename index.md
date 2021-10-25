@@ -2,7 +2,7 @@
 
 As a Talent Acquisition Consultant, I source and engage with talent in the Blockchain, AI, Cybersecurity, and Telecommunications industries. My experience stems from my Public Management and Leadership background, as well as my Business Administration and International Studies. I started my career in Sales and Customer Management at Rituals' headquarters in Amsterdam. I subsequently continued my path in recruitment to leverage my global attitude, consultative approach and keen personal interest in the tech industry.
 
-I have lived in Venezuela, The United States and The Netherlands, and speak English, Spanish and Portuguese. In my free time, I learn about blockchain and web development. Feel free to check out the project I'm currently working on - [Impero, an eLearning SaaS](https://juanbric.github.io/impero/dist/index.html) - and see its source code on m [GitHub page](https://github.com/juanbric).
+I have lived in Venezuela, The United States and The Netherlands, and speak English, Spanish and Portuguese. In my free time, I learn about blockchain and web development. Feel free to check out the project I'm currently working on - [Impero, an eLearning SaaS](https://juanbric.github.io/impero/dist/index.html) - and see its source code on m [GitHub page](https://github.com/juanbric/impero).
 
 <br/>
 
