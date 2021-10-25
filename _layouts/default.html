@@ -37,16 +37,7 @@
         <br>
         {% endif %}
         {{ site.affiliation }}
-        
-      </header>
-      <section>
-
-      {{ content }}
-      
-      </section>
-      
-      <footer>
-          <div class="social-icons">
+        <div class="social-icons">
           {% if site.linkedin %}
           <a href="{{ site.linkedin }}" target="_blank">
             <i class="fab fa-linkedin-in"></i>
@@ -64,7 +55,17 @@
           {% endif %}
         </div>
         <br>
-        {% if site.github.is_project_page %}
+        
+        
+      </header>
+      <section>
+
+      {{ content }}
+      
+      </section>
+      
+      <footer>
+         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
