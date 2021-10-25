@@ -37,13 +37,7 @@
         <br>
         {% endif %}
         {{ site.affiliation }}
-        {% if site.email %}
-        <br>
-        {{ site.email }}
-        <br>
-        <br>
-        {% endif %}
-
+        
       </header>
       <section>
 
@@ -58,9 +52,9 @@
             <i class="fab fa-linkedin-in"></i>
           </a>
           {% endif %}
-          {% if site.google_scholar %}
-          <a href="{{ site.google_scholar}}" target="_blank">
-            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
+          {% if site.email %}
+          <a href="{{ site.email }}" target="_blank">
+            <i class="fab fa-email" style="font-size:1.6rem"></i>
           </a>
           {% endif %}
           {% if site.github_link %}            
