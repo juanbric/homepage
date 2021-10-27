@@ -36,9 +36,6 @@
         <br><br>
         <h1>{{ site.title }}</h1> 
         
-        {% if site.position %}
-        {{ site.position }}
-        
         {% endif %}
         {{ site.affiliation }}
 
@@ -56,6 +53,10 @@
             <i class="fab fa-github"></i>
           </a>
           {% endif %}
+          <br>
+            {% if site.position %}
+        {{ site.position }}
+        
           </div>
         <br>
         
