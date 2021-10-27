@@ -102,4 +102,4 @@ _Jan 2014 - Jun 2016 (France, the United States, Spain, The Netherlands)_
 
 <br/>
 
-© 2021 Juan Pablo Briceno
+© 2021 Juan Briceno
