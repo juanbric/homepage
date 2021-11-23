@@ -109,4 +109,16 @@ _Jan 2014 - Jun 2016 (France, the United States, Spain, The Netherlands)_
 
 <br/>
 
+## Technical
+
+**Software tools** MS Excel, VS Code, MS Office, Drive
+
+**CRM/ATS** SalesForce, SmartRecruiters, Pocket Recruiter, Bullhorn
+
+**Programming** HTML5, CSS, Bootstrap, JavaScript, GitHub, Firebase (Basic), React (Basic)
+
+**OS** Windows, MacOS, Linux
+
+<br/>
+
 © 2021 Juan Briceno
