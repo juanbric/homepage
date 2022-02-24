@@ -1,27 +1,18 @@
 ## About me
+I'm Co-Founder of [Soltype](https://www.soltype.io/) - the first web3 marketplace enabling the creation and trading of literary NFTs. Feel free to join our [Discord Community](https://discord.gg/RHTkhfvX9c), and follow us on [Twitter](https://twitter.com/SoltypeNFT), [Linkedin](https://www.linkedin.com/company/soltype/) and [Instagram](https://www.instagram.com/soltypenft/)!
 
-As a Talent Acquisition Consultant, I source and engage with talent in the Blockchain, AI, Cybersecurity, and Telecommunications industries. My experience stems from my Public Management and Leadership background, as well as my Business Administration and International Studies. I started my career in Sales and Customer Management at Rituals' headquarters in Amsterdam. I subsequently continued my path in recruitment to leverage my global attitude, consultative approach and keen personal interest in the tech industry.
-
-I am also a Cofounder of [Soltype](https://www.soltype.io/) - The First Open Written Word NFT Marketplace on Solana. Feel free to join our [Discord Community](https://discord.gg/RHTkhfvX9c), and follow us on [Twitter](https://twitter.com/SoltypeNFT), [Linkedin](https://www.linkedin.com/company/soltype/) and [Instagram](https://www.instagram.com/soltypenft/)!
-
-I have lived in Venezuela, The United States and The Netherlands, and speak English, Spanish and Portuguese. In my free time, I learn about blockchain and web development. Check out the projects I'm currently working on:
-
-<br/>
-
-## Portfolio
-- [Impero - an eLearning SaaS](https://juanbric.github.io/impero/dist/index.html) (Under Construction)
-- [Crypto Portfolio - track your investments](https://juanbric.github.io/track-and-grow/)
-- [Calculator - OOP JavaScript project](https://juanbric.github.io/calculator/)
-
-<br/>
 
 ## Experience
+
+**Co-Founder - Soltype**
+
+_April 2022 - Present (Amsterdam, The Netherlands)_
 
 **Talent Acquisition Consultant - Ethos BeathChapman**
 
 Working closely with internal (colleagues) and external (client-side) in obtaining a clear brief on job requirements and criteria as to ensure the accurate sourcing of relevant talent within the Blockchain, Cybersecurity, AI, and fintech industries. Developing new businesses and managing CxO level accounts. Ensuring process management, ATS database hygiene, and GDPR Compliance.
 
-_May 2021 - Present (Amsterdam, The Netherlands)_
+_May 2021 - April 2022 (Amsterdam, The Netherlands)_
 
 **Sales and Customer Relationship Management - Rituals**
 
