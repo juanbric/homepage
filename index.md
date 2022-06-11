@@ -8,6 +8,19 @@ I'm Co-Founder of [Soltype](https://www.soltype.io/) - the first web3 marketplac
 
 _April 2022 - Present (Amsterdam, The Netherlands)_
 
+- Conceptualized first web3 marketplace enabling the creation and trading of literary NFTs
+- Successfully positioned the company as a leading platform for the creation of literary NFTs
+- Planning and execution of a unique business and reward model – incentivising early support of literary pieces
+- Created presence on multiple media for effective exposure to target audience 
+- Built and managed a team of 10+ employees - recruiting, formulating staffing plan, employee benefits, and policies 
+- Streamlined product management, implemented quality control measures, and trained front-office team to deliver good business development and customer experience
+- Increased brand awareness and sales through multiple marketing strategies (regular promotions, personalised offerings, remarketing, and uniform communications) on multiple channels (website, social media, newsletter) 
+- Defined processes and metrics to monitor team efficiency and sales
+- Successfully drove pre-seed funding round
+
+Skill: 
+- Blockchain start-up, business ideation and ownership, product management, team creation and management, alliance formation, marketing, operations management, project delivery, business development, account management, social media management.
+
 **Talent Acquisition Consultant - Ethos BeathChapman**
 
 _May 2021 - April 2022 (Amsterdam, The Netherlands)_
@@ -33,21 +46,24 @@ Areas of expertise:
 
 **Sales and Customer Relationship Management - Rituals**
 
-Driving high value sales and next generation customer service through SalesForce. Strategizing on how to enhance routines and systems for agents and customers alike. Servicing both the Spanish and UK markets.
-
 _Oct 2020 - May 2021 (Amsterdam, The Netherlands)_
 
+- Driving high value sales and next generation customer management through SalesForce, servicing both the Spanish and UK markets at Rituals Headquarters in Amsterdam. 
+- Strategic enhancing of routines and workflows for agents and customers alike.
+
  **Research Assistant - Centre for Public Values and Ethics Leiden University** 
- 
-Documenting, and presenting cases of wrongful criminal convictions in Latin America, while enlarging Leiden University's wrongful convictions academic database. Supervisor Dr. A. Poama.
 
 _Oct 2018 - May 2019 (The Hague, The Netherlands)_
 
+- Documenting and presenting cases of wrongful criminal convictions in Latin America for the Faculty of Governance and Global Affairs: Centre for Public Values and Ethics of Leiden University.
+- Enlarging Leiden University's wrongful convictions academic database.
+- Supervision Dr. Andrei Poama
+
 **Cook - Barlow**
 
-Served me to independently pay for my studies and living expenses. 
-
 _Jan 2016 - Jun 2020 (The Hague, The Netherlands)_
+
+Served me to independently pay for my studies and living expenses. 
 
 <br/>
 
@@ -75,33 +91,33 @@ Public Leadership, Rhetorical and Argumentative Skills, Tackling Wicked Problems
 
  **Director, Venezolanos Unidos en Holanda**
 
-Organizing, planning and coordinating the dissemination of academic research and cultural experiences in the form of seminars, conferences, and workshops events..
-
 _Jan 2017 - Jun 2019 (The Hague, The Netherlands)_
+
+Organizing, planning and coordinating the dissemination of academic research and cultural experiences in the form of seminars, conferences, and workshops events..
 
  **Student Consultant - FMO Dutch Development Bank and IRMCT**
 
-Project consultant. Integral part of the International Studies BA and the Honors College Track at Leiden University.
-
 _Jan 2019 - Jun 2019 (The Hague, The Netherlands)_
+
+Project consultant. Integral part of the International Studies BA and the Honors College Track at Leiden University.
 
  **Communications Officer, Special Representation of Venezuela to The Kingdom of the Netherlands**
 
-Creating informational decks for strategic partnership opportunities, assisting with fact finding for press needs, identifying and developing relations with regional allies to promote the reestablishment of democracy in Venezuela.
-
 _Jul 2018 - Mar 2019 (The Hague, The Netherlands)_
+
+Creating informational decks for strategic partnership opportunities, assisting with fact finding for press needs, identifying and developing relations with regional allies to promote the reestablishment of democracy in Venezuela.
 
  **Contributing Writer, analitica.com**
 
-Opinion articles about the economic, philosophical, historical, and political issues revolving around the Venezuelan context.
-
 _Jan 2016 - Jun 2020 (Around the world)_
+
+Opinion articles about the economic, philosophical, historical, and political issues revolving around the Venezuelan context.
 
  **Volunteer, Workaway**
 
-Collaborating with a multicultural community in the construction of houses, impacting meaningfully the life of needed families. Developing high-quality and long-lasting relationships with people from diverse cultures.
-
 _Jan 2014 - Jun 2016 (France, the United States, Spain, The Netherlands)_
+
+Collaborating with a multicultural community in the construction of houses, impacting meaningfully the life of needed families. Developing high-quality and long-lasting relationships with people from diverse cultures.
 
 <br/>
 
@@ -122,6 +138,8 @@ _Jan 2014 - Jun 2016 (France, the United States, Spain, The Netherlands)_
 ## Technical
 
 **Software tools** MS Excel, VS Code, MS Office, Drive
+
+**Management tools** Jira, Discord
 
 **CRM/ATS** SalesForce, SmartRecruiters, Pocket Recruiter, Bullhorn
 
