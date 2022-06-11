@@ -10,9 +10,26 @@ _April 2022 - Present (Amsterdam, The Netherlands)_
 
 **Talent Acquisition Consultant - Ethos BeathChapman**
 
-Working closely with internal (colleagues) and external (client-side) in obtaining a clear brief on job requirements and criteria as to ensure the accurate sourcing of relevant talent within the Blockchain, Cybersecurity, AI, and fintech industries. Developing new businesses and managing CxO level accounts. Ensuring process management, ATS database hygiene, and GDPR Compliance.
-
 _May 2021 - April 2022 (Amsterdam, The Netherlands)_
+
+- Executive/Leadership hiring with a strong sourcing foundation
+- Partnering with recruiters and hiring partners across different offices
+- Hiring into teams working on complex technical pipelines/requisitions
+- Business Development and Account Management (hunting and farming)
+- Recruiting tools, applicant tracking systems, data management/reporting techniques and software collaboration tools
+- Manage recruiting for multiple complex searches, creating innovative sourcing strategies and engagement to bring the best talent to each role
+- Develop and execute fully comprehensive sourcing plans, analysing requirements to determine target profile needs and matches
+- Create research strategy for talent pooling, market mapping and competitor analysis
+- Drive offer process - including extending offers, negotiations, closing candidates, and generating offer letters
+- Collaborate with the business throughout the recruitment process to ensure goals and objectives are met
+- Regularly manage pipeline activity and maintain data integrity, and proactively share data- centric updates with internal stakeholders
+- Actively engage in diversity and inclusion hiring strategies
+
+Areas of expertise:
+- Cyber Security (Pen Test, Vulnerability, Ethical Hacking, Threat Intelligence, Digital Forensics, Incident Response, MSS, SIEM, SOC, Compliance, Consultancy, Governance Risk and Compliance, Sales, Presales, SE).
+- Artificial Intelligence (Research Science, Data Science, Machine Learning, Deep Learning, Software Engineering);
+- Telecommunications (Enterprise Architecture, Solutions Architecture, Technology Strategy, Ad Tech, Network, IT, Product Development, Project Management);
+- Growing Technology Trends (Analytics and Data Science, Blockchain, Online Services);
 
 **Sales and Customer Relationship Management - Rituals**
 
