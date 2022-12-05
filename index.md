@@ -1,25 +1,24 @@
 ## About me
-I'm Co-Founder of [Soltype](https://www.soltype.io/) - the first web3 marketplace enabling the creation and trading of literary NFTs. Feel free to join our [Discord Community](https://discord.gg/RHTkhfvX9c), and follow us on [Twitter](https://twitter.com/SoltypeNFT), [Linkedin](https://www.linkedin.com/company/soltype/) and [Instagram](https://www.instagram.com/soltypenft/)!
+I'm Co-Founder of [Soltype](https://www.soltype.io/) - an eBook NFT marketplace where anyone can collect, read, and resell digital books. I lead Soltype's business practice across growth, partnerships, strategy, marketing, and conceptualization; and contribute day in and day out on the software development of the product. Join our [Discord Community](https://discord.gg/RHTkhfvX9c), and follow us on [Twitter](https://twitter.com/soltype_io), [Linkedin](https://www.linkedin.com/company/soltype/) and [Instagram](https://www.instagram.com/soltype.io/) to form part of the future of publishing.
 
 
 ## Experience
 
 **Co-Founder - Soltype**
 
-_April 2022 - Present (Amsterdam, The Netherlands)_
-
-- Conceptualized first web3 marketplace enabling the creation and trading of literary NFTs
-- Successfully positioned the company as a leading platform for the creation of literary NFTs
-- Planning and execution of a unique business and reward model – incentivising early support of literary pieces
-- Created presence on multiple media for effective exposure to target audience 
+_April 2022 - Present (Global)_
+- Developed the front end of the whole application with React, Next.js (following SEO practices), Chakra UI, Tailwind, CSS, Node.js, and Supabase.
+- Established partnerships with leading publishers around the world to propell the web3 publishing industry forward.
+- Created presence on multiple media for effective exposure to target audience.
+- Conceptualized an eBook NFT marketplace where anyone can collect, read, and resell digital books through Solana's blockchain, providing users with the tools to invest in literature and fund the stories and authors they love. 
 - Built and managed a team of 10+ employees - recruiting, formulating staffing plan, employee benefits, and policies 
-- Streamlined product management, implemented quality control measures, and trained front-office team to deliver good business development and customer experience
-- Increased brand awareness and sales through multiple marketing strategies (regular promotions, personalised offerings, remarketing, and uniform communications) on multiple channels (website, social media, newsletter) 
-- Defined processes and metrics to monitor team efficiency and sales
-- Successfully drove pre-seed funding round
+- Streamlined product management, implemented quality control measures, and trained front-office team to deliver good business development and customer experience.
+- Increased brand awareness and sales through multiple marketing strategies (regular promotions, personalised offerings, remarketing, and uniform communications) on multiple channels (website, social media, newsletter). 
+- Defined processes and metrics to monitor team efficiency and sales.
+- Successfully drove pre-seed funding round.
 
 Skill: 
-- Blockchain start-up, business ideation and ownership, product management, team creation and management, alliance formation, marketing, operations management, project delivery, business development, account management, social media management.
+- Blockchain start-up, software development, business ideation and ownership, product management, team creation and management, alliance formation, marketing, operations management, project delivery, business development, account management, social media management.
 
 **Talent Acquisition Consultant - Ethos BeathChapman**
 
@@ -143,7 +142,7 @@ Collaborating with a multicultural community in the construction of houses, impa
 
 **CRM/ATS** SalesForce, SmartRecruiters, Pocket Recruiter, Bullhorn
 
-**Programming** HTML5, CSS, Bootstrap, JavaScript, GitHub, Firebase (Basic), React (Basic)
+**Programming** React.js, Next.js, Node.js, Chakra UI, Tailwind CSS, CSS, Bootstrap, JavaScript, GitHub, Firebase
 
 **OS** Windows, MacOS, Linux
 
