@@ -1,41 +1,36 @@
 ## About me
-I'm Co-Founder of [Soltype](https://www.soltype.io/) - an eBook NFT marketplace where anyone can collect, read, and resell digital books. I lead Soltype's business practice across growth, partnerships, strategy, marketing, and conceptualization; and contribute day in and day out on the software development of the product. Join our [Discord Community](https://discord.gg/RHTkhfvX9c), and follow us on [Twitter](https://twitter.com/soltype_io), [Linkedin](https://www.linkedin.com/company/soltype/) and [Instagram](https://www.instagram.com/soltype.io/) to form part of the future of publishing.
+I'm Co-Founder of [Soltype](https://www.soltype.io/) - an eBook NFT marketplace where anyone can collect, read, and resell digital books. I lead Soltype's business practice across its Front End Software Development, growth, partnerships, strategy, marketing, and conceptualization. If you want to form part of the future of publishing, join our [Discord Community](https://discord.gg/RHTkhfvX9c), and follow us on [Twitter](https://twitter.com/soltype_io), [Linkedin](https://www.linkedin.com/company/soltype/) and [Instagram](https://www.instagram.com/soltype.io/).
 
+## Portfolio
+- [Soltype](https://www.soltype.io/) - NFT eBook marketplace built with Next.js, React, Typescript where anyone can collect and read digital books. 
+- [Zentra Dev](https://zentradev.vercel.app/) - Web Development Agency built with Next.js, React, Typescript, Tailwind, Chakra, Contentful
+- [Functional calculator](https://juanbric.github.io/calculator/) - made with Javascript, HTML, and CSS
+- [Impero](https://juanbric.github.io/impero/dist/index.html) - Front end design of an eLearning platform
+- [This homepage](https://juanbric.github.io/homepage/) - built using jekyll github themes.
 
 ## Experience
 
 **Co-Founder - Soltype**
 
 _April 2022 - Present (Global)_
-- Developed the front end of the whole application with React, Next.js (following SEO practices), Chakra UI, Tailwind, CSS, Node.js, and Supabase.
-- Established partnerships with leading publishers around the world to propell the web3 publishing industry forward.
-- Created presence on multiple media for effective exposure to target audience.
-- Conceptualized an eBook NFT marketplace where anyone can collect, read, and resell digital books through Solana's blockchain, providing users with the tools to invest in literature and fund the stories and authors they love. 
-- Built and managed a team of 10+ employees - recruiting, formulating staffing plan, employee benefits, and policies 
-- Streamlined product management, implemented quality control measures, and trained front-office team to deliver good business development and customer experience.
-- Increased brand awareness and sales through multiple marketing strategies (regular promotions, personalised offerings, remarketing, and uniform communications) on multiple channels (website, social media, newsletter). 
-- Defined processes and metrics to monitor team efficiency and sales.
-- Successfully drove pre-seed funding round.
+- As the lead front-end developer for a Next.js application, I utilised React, Typescript, Chakra UI, Tailwind, and CSS to build a user-friendly and SEO-optimised platform. I also integrated Node.js, Supabase, RESTful APIs and Metaplex to manage data and user authentication.
+- I conceptualised and developed an eBook NFT marketplace using Solana's blockchain, which  allows users to collect, read, and resell digital books. This platform provides a unique opportunity for literature enthusiasts to invest in and support their favourite authors.
+- As a team manager, I recruited and managed a team of 10+ employees, developing staffing plans, employee benefits, and policies. I also implemented quality control measures and trained the front-office team to deliver excellent customer service and business development.
+- Through targeted SEO marketing strategies, including regular promotions, personalization, remarketing, and consistent communication across multiple channels (website, social media, newsletter), I successfully increased brand awareness and sales.
+- I also successfully led a pre-seed funding round, securing financial support for the continued growth and development of the business.
 
 Skill: 
-- Blockchain start-up, software development, business ideation and ownership, product management, team creation and management, alliance formation, marketing, operations management, project delivery, business development, account management, social media management.
+- Blockchain development, software development, RESTful API, React, Next.js, Javascript, CSS, Tailwind, Chakra, Typescript, business ideation and ownership, product management, team creation and management, alliance formation, marketing, operations management, project delivery, business development, account management, social media management.
 
 **Talent Acquisition Consultant - Ethos BeathChapman**
 
 _May 2021 - April 2022 (Amsterdam, The Netherlands)_
 
-- Executive/Leadership hiring with a strong sourcing foundation
-- Partnering with recruiters and hiring partners across different offices
-- Hiring into teams working on complex technical pipelines/requisitions
-- Business Development and Account Management (hunting and farming)
-- Recruiting tools, applicant tracking systems, data management/reporting techniques and software collaboration tools
-- Manage recruiting for multiple complex searches, creating innovative sourcing strategies and engagement to bring the best talent to each role
-- Develop and execute fully comprehensive sourcing plans, analysing requirements to determine target profile needs and matches
-- Create research strategy for talent pooling, market mapping and competitor analysis
-- Drive offer process - including extending offers, negotiations, closing candidates, and generating offer letters
-- Collaborate with the business throughout the recruitment process to ensure goals and objectives are met
-- Regularly manage pipeline activity and maintain data integrity, and proactively share data- centric updates with internal stakeholders
-- Actively engage in diversity and inclusion hiring strategies
+- As a technical recruiter, I have a proven track record of hiring top talent for complex and highly specialised roles, such as Data Scientists, Data Engineers, Product Growth Analysts, and Decision Scientists. I have strong analytical skills, including proficiency in computer programming and UI design, and have used these skills to relate and empathise with the candidates I spoke with and hired.
+
+- I have international full-cycle technical recruiting experience, with a deep understanding of global recruitment practices and the ability to source, engage, and activate passive candidates. I am skilled in candidate care and have a strong track record of balancing process with candidate experience. I am also proficient in a variety of recruiting tools, applicant tracking systems, data management and reporting techniques, and software collaboration Tools.
+
+- I have experience creating and fostering partnerships with internal leadership and executive teams, and have a track record of influencing and driving towards results. I have strong tech and industry knowledge, with the ability to understand relevant tech skills, target companies, and conferences, as well as keep up with industry trends and developments. I am also a member of several relevant industry organisations and hold several industry certifications.
 
 Areas of expertise:
 - Cyber Security (Pen Test, Vulnerability, Ethical Hacking, Threat Intelligence, Digital Forensics, Incident Response, MSS, SIEM, SOC, Compliance, Consultancy, Governance Risk and Compliance, Sales, Presales, SE).
@@ -47,16 +42,18 @@ Areas of expertise:
 
 _Oct 2020 - May 2021 (Amsterdam, The Netherlands)_
 
-- Driving high value sales and next generation customer management through SalesForce, servicing both the Spanish and UK markets at Rituals Headquarters in Amsterdam. 
-- Strategic enhancing of routines and workflows for agents and customers alike.
+- I have a proven track record of driving high value sales and delivering next-generation customer service using SalesForce. In my role, I strategized on ways to enhance routines and systems for both service agents and customers, resulting in improved customer satisfaction and increased sales.
+
+- I have expert-level knowledge of SalesForce, including advanced features and functionality, and have received training and certifications in using the platform. I have successfully applied this knowledge to drive sales and improve customer service.
+
+- I have experience servicing both the Spanish and UK markets, and have developed strong language skills and cultural competencies through this experience. I have also faced and overcome challenges related to servicing these markets, adapting my approach as needed to meet the needs of my customers and colleagues.
 
  **Research Assistant - Centre for Public Values and Ethics Leiden University** 
 
 _Oct 2018 - May 2019 (The Hague, The Netherlands)_
 
-- Documenting and presenting cases of wrongful criminal convictions in Latin America for the Faculty of Governance and Global Affairs: Centre for Public Values and Ethics of Leiden University.
-- Enlarging Leiden University's wrongful convictions academic database.
-- Supervision Dr. Andrei Poama
+- As a researcher at the Faculty of Governance and Global Affairs, I worked at the Centre for Public Values and Ethics on a project under the supervision of Dr. Andrei Poama documenting and presenting cases of wrongful criminal convictions in Latin America. I was responsible for researching and analysing cases, and for adding them to Leiden University's wrongful convictions database. Through this work, I contributed to the understanding of issues related to wrongful convictions in Latin America and helped to expand the university's database on this topic.
+
 
 **Cook - Barlow**
 
@@ -83,6 +80,34 @@ Managerial Strategies and Organization, Marketing, Corporate Social Responsibili
 **Honours College Tackling Global Challenges (30EC) - Leiden University**
 
 Public Leadership, Rhetorical and Argumentative Skills, Tackling Wicked Problems, Governing Science and Expertise, Academic Internship at the Centre for Public Ethics and Values. _Average Grade: 8.4_
+
+<br/>
+
+## Technical
+
+**Programming** React, Typescript, Javascript, Next.js, Node.js, CSS, Tailwind, Chakra, GitHub, Firebase, RESTful APIs, CMS, Contentful, Onsite SEO.
+
+**Software tools** VS Code, MS Excel, Google Sheets, MS Office, Drive
+
+**Management tools** Jira, Discord
+
+**CRM/ATS** SalesForce, SmartRecruiters, Pocket Recruiter, Bullhorn
+
+**OS** Windows, MacOS, Linux
+
+<br/>
+
+## Languages
+
+**Spanish** Mother tongue _C2_
+
+**English** Fully proficient _C2_
+
+**Portuguese** Proficient _C1_
+
+**Italian** Independent _B1_
+
+**Dutch** Basic _A2_
 
 <br/>
 
@@ -120,32 +145,4 @@ Collaborating with a multicultural community in the construction of houses, impa
 
 <br/>
 
-## Languages
-
-**Spanish** Mother tongue _C2_
-
-**English** Fully proficient _C2_
-
-**Portuguese** Proficient _C1_
-
-**Italian** Independent _B1_
-
-**Dutch** Basic _A2_
-
-<br/>
-
-## Technical
-
-**Software tools** MS Excel, VS Code, MS Office, Drive
-
-**Management tools** Jira, Discord
-
-**CRM/ATS** SalesForce, SmartRecruiters, Pocket Recruiter, Bullhorn
-
-**Programming** React.js, Next.js, Node.js, Chakra UI, Tailwind CSS, CSS, Bootstrap, JavaScript, GitHub, Firebase
-
-**OS** Windows, MacOS, Linux
-
-<br/>
-
-© 2021 Juan Briceno
+© 2023 Juan Briceno
