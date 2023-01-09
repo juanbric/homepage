@@ -3,7 +3,8 @@ I'm Co-Founder of [Soltype](https://www.soltype.io/) - an eBook NFT marketplace 
 
 ## Portfolio
 - [Soltype](https://www.soltype.io/) - NFT eBook marketplace built with Next.js, React, Typescript where anyone can collect and read digital books. 
-- [Zentra Dev](https://zentradev.vercel.app/) - Web Development Agency built with Next.js, React, Typescript, Tailwind, Chakra, Contentful
+- [Zentra Dev](https://zentradev.vercel.app/) - Web Development Agency built with Next.js, React, Typescript, Tailwind, Chakra, Contentful CMS, email-js.
+- [melenti](https://melenti.vercel.app/) - Mental health blog in Spanish built with Next.js, React, Typescript, Tailwind, Chakra, Contentful CMS, email-js. Opptimized for SEO
 - [Functional calculator](https://juanbric.github.io/calculator/) - made with Javascript, HTML, and CSS
 - [Impero](https://juanbric.github.io/impero/dist/index.html) - Front end design of an eLearning platform
 - [This homepage](https://juanbric.github.io/homepage/) - built using jekyll github themes.
