@@ -3,11 +3,11 @@ I'm Co-Founder of [Soltype](https://www.soltype.io/) - an eBook NFT marketplace 
 
 ## Portfolio
 - [Soltype](https://www.soltype.io/) - NFT eBook marketplace built with Next.js, React, Typescript where anyone can collect and read digital books. 
-- [Zentra Dev](https://zentradev.vercel.app/) - Web Development Agency built with Next.js, React, Typescript, Tailwind, Chakra, Contentful CMS, email-js.
-- [melenti](https://melenti.vercel.app/) - Mental health blog in Spanish built with Next.js, React, Typescript, Tailwind, Chakra, Contentful CMS, email-js. Opptimized for SEO
 - [Face recognition app](https://face-recognition-juanbri.vercel.app/) - This Next.js app detects and recognizes faces. It has implemented authentication and authorization. It also allows the user to upload image references to a database for the program to recognize all input faces of that individual. It allows users to upload input pictures to a database with their corresponding face tags. Last, it has a search engine that responds on the name of the individual.
-- [Functional calculator](https://juanbric.github.io/calculator/) - made with Javascript, HTML, and CSS
-- [Impero](https://juanbric.github.io/impero/dist/index.html) - Front end design of an eLearning platform
+- [Zentra Dev](https://zentradev.vercel.app/) - Web Development Agency built with Next.js, React, Typescript, Tailwind, Chakra, Contentful CMS, email-js.
+- [melenti](https://melenti.vercel.app/) - Mental health blog in Spanish built with Next.js, React, Typescript, Tailwind, Chakra, Contentful CMS, email-js. Opptimized for SEO.
+- [Functional calculator](https://juanbric.github.io/calculator/) - made with Javascript, HTML, and CSS.
+- [Impero](https://juanbric.github.io/impero/dist/index.html) - Front end design of an eLearning platform.
 - [This homepage](https://juanbric.github.io/homepage/) - built using jekyll github themes.
 
 ## Experience
